@@ -19,3 +19,25 @@ body {
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+
+@font-face {
+  font-family: 'Tenada';
+  src: url('/fonts/Tenada.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'VampireWars';
+  src: url('/fonts/VampireWars.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'University2';
+  src: url('/fonts/University.otf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
