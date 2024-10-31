@@ -17,7 +17,7 @@ export default function Home() {
         <h1 className="text-6xl text-blue-600 font-sans font-bold">Purpose</h1>
         <span className="sm:text-2xl text-xl md:m-0 m-4 md:p-3 p-0 font-serif">To empower students by offering job placements, internships, startup opportunities, and valuable learning experiences. To build a strong tech community at Sinhgad Institute and beyond through hackathons, projects, and team activities. To make education inclusive with free, open-source content, ensuring everyone can access the latest technology knowledge. Ultimately, to develop the next generation of tech leaders who innovate and create meaningful solutions for the world.</span>
         <Image src={"/assets/images/image8.png"} height={800} width={800} alt={"logo"} className="m-0 p-0 sm:w-50 sm:h-50 rounded-2xl"></Image>
-        <h1 className="sm:text-5xl text-2xl dark:text-green-800 text-green-600 m-3 p-4">"Let's Work Together"</h1>
+        <h1 className="sm:text-5xl text-2xl dark:text-green-800 text-green-600 m-3 p-4">&quot;Let&apos;s Work Together&quot;</h1>
     </div>
     
     <div className="h-4/5 w-screen overflow-x-hidden sm:p-2 p-2 flex flex-col justify-center items-center">
