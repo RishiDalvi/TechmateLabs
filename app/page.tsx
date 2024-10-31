@@ -1,5 +1,4 @@
 import Image from "next/image";
-import { CardsCarousel } from "@/components/carousel-card";
 import { BackgroundBoxes } from "@/components/background-boxes";
 
 export default function Home() {

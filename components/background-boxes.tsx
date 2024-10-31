@@ -1,7 +1,6 @@
 "use client";
 import React from "react";
 import { Boxes } from "./ui/background-boxes";
-import { cn } from "@/lib/utils";
 import { CardsCarousel } from "./carousel-card";
 
 export function BackgroundBoxes() {

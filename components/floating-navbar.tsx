@@ -1,7 +1,7 @@
 "use client";
 import React from "react";
 import { FloatingNav } from "./ui/floating-navbar";
-import { Icon3dCubeSphere, IconArrowBearLeft, IconHome, IconMessage, IconUser } from "@tabler/icons-react";
+import { Icon3dCubeSphere, IconHome, IconMessage, IconUser } from "@tabler/icons-react";
 export function Navbar() {
   const navItems = [
     {
