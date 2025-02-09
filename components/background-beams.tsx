@@ -1,5 +1,6 @@
 import React from "react";
-import { BackgroundBeamsWithCollision } from "components/ui/background-beams-with-collision"; // Corrected import statement
+import { BackgroundBeamsWithCollision } from "./ui/background-beams-with-collision"; // Corrected import statement
+
 import Image from "next/image";
 
 export function BackgroundBeamsWithCollisionDemo() {
